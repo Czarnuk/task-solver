@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1dl+G2NV272sEVkrAQw8p1aX5vssAYA3jvrST2p7uAet6hSB0NOF5WD+LetO5pOD6x4dgfZc1pR6ogRErrgUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodaraz\\source\\repos\\task-solver\\task-solver\\task-solver\\task-solver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodaraz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
